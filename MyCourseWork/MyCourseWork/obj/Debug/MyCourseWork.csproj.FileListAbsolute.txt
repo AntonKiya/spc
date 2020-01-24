@@ -1,0 +1,6 @@
+C:\Users\H10ne\source\repos\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe.config
+C:\Users\H10ne\source\repos\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.exe
+C:\Users\H10ne\source\repos\MyCourseWork\MyCourseWork\bin\Debug\MyCourseWork.pdb
+C:\Users\H10ne\source\repos\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.csprojAssemblyReference.cache
+C:\Users\H10ne\source\repos\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.exe
+C:\Users\H10ne\source\repos\MyCourseWork\MyCourseWork\obj\Debug\MyCourseWork.pdb
